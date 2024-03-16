@@ -1,0 +1,15 @@
+{
+  "name": "02_testing",
+  "version": "1.0.0",
+  "description": "Some first test cases",
+  "main": "someFunction.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
